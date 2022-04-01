@@ -1,0 +1,21 @@
+baseURL: 'https://worldofsteelcraft.tk/'
+languageCode: en-us
+title: World of SteelCraft Links Portal
+theme: codenamecore-linkportal
+params:
+  description: The link portal of World of SteelCraft
+  pagePreviewImage: /images/preview.png
+  author: World of SteelCraft
+  backgroundColor: "#32e532"
+  copyrightyearStarted: 2021 
+  copyrightyearToday: 2022
+  copyrightHolder: World of SteelCraft/Scary Master Playz
+  copyrightNotes: Elements of this website are owned by World of SteelCraft. Other third party copyrighted content are owned by their respective owners.
+  managedByWhom: Currently managed by [dpG06](https://dplayzgames06.tk)
+enableRobotsTXT: false
+
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true

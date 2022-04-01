@@ -1,0 +1,4 @@
+[build.environment]
+  TZ='Asia/Manila'
+  HUGO_VERSION = "0.87.0"
+
