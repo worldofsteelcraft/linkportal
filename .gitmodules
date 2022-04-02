@@ -3,4 +3,4 @@
 	url = https://github.com/dplayz/codenamecore.git
 [submodule "themes/codenamecore-linkportal"]
 	path = themes/codenamecore-linkportal
-	url = https://github.com/dplayz/codenamecore-linkportal
+	url = git@github.com:dplayz/codenamecore-linkportal
